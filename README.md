@@ -12,7 +12,7 @@ Perfect for input validation, formatting, and data presentation in web applicati
 [![pnpm](https://img.shields.io/badge/pnpm-9-F69220?logo=pnpm)](https://pnpm.io/)
 [![license](https://img.shields.io/npm/l/@cicerotcv/masker?color=green)](./LICENSE)
 [![CI](https://github.com/cicerotcv/masker/actions/workflows/ci.yml/badge.svg)](https://github.com/cicerotcv/masker/actions/workflows/ci.yml)
-[![build](https://github.com/ctiagocv/masker/actions/workflows/publish.yml/badge.svg)](https://github.com/ctiagocv/masker/actions)
+[![build](https://github.com/cicerotcv/masker/actions/workflows/publish.yml/badge.svg)](https://github.com/cicerotcv/masker/actions/workflows/publish.yml)
 
 ---
 
