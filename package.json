@@ -10,6 +10,7 @@
   ],
   "scripts": {
     "build": "vite build",
+    "lint": "eslint src",
     "test:run": "vitest run",
     "prettier:check": "prettier --check src",
     "prettier:fix": "prettier --write src"
@@ -23,8 +24,11 @@
   "license": "MIT",
   "packageManager": "pnpm@10.13.1",
   "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "eslint": "^9.33.0",
     "prettier": "^3.6.2",
     "typescript": "^5.9.2",
+    "typescript-eslint": "^8.39.1",
     "vite": "^7.1.2",
     "vite-plugin-dts": "^4.5.4",
     "vitest": "^3.2.4"
