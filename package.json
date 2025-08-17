@@ -1,6 +1,6 @@
 {
   "name": "@cicerotcv/masker",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Simple masking utility functions",
   "main": "dist/masker.umd.js",
   "module": "dist/masker.es.js",
