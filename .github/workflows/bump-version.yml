@@ -12,6 +12,11 @@ on:
           - minor
           - major
 
+permissions:
+  contents: write
+  packages: write
+  id-token: write
+
 jobs:
   bump:
     runs-on: ubuntu-latest
