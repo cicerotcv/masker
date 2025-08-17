@@ -1,9 +1,11 @@
 name: Publish to npm
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - 'v*.*.*'
+
 permissions:
   id-token: write 
   contents: read
@@ -51,5 +53,6 @@ jobs:
             ```
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
 
