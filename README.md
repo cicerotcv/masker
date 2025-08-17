@@ -5,6 +5,7 @@ Perfect for input validation, formatting, and data presentation in web applicati
 
 [![Version](https://img.shields.io/github/v/release/cicerotcv/masker?label=version&color=blue)](https://github.com/cicerotcv/masker/releases)
 [![npm version](https://img.shields.io/npm/v/@cicerotcv/masker?color=blue)](https://www.npmjs.com/package/@cicerotcv/masker)
+[![Monthly downloads](https://img.shields.io/npm/dm/@cicerotcv/masker)](https://www.npmjs.com/package/@cicerotcv/masker)
 [![License](https://img.shields.io/github/license/cicerotcv/masker?color=green)](LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://reactjs.org/)
@@ -87,4 +88,5 @@ pnpm test:run
 ## 📄 License
 
 MIT © Cicero Valentim
+
 
