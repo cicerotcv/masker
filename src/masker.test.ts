@@ -43,7 +43,7 @@ describe('Masker', () => {
 
   describe('createMasker', () => {
     it('should create a masker function with a given pattern', () => {
-      const phoneMask = Masker.createMasker('(##) ####-####');
+      const phoneMask = Masker.create('(##) ####-####');
       expect(phoneMask('1234567890')).toBe('(12) 3456-7890');
       expect(phoneMask('987654321')).toBe('(98) 7654-321');
     });
