@@ -57,20 +57,24 @@ console.log(sanitized); // 11123451234
 
 ## 🛠 API
 
-### `Masker.apply(input: string, pattern: string): string`
+### Apply the given pattern to a string or number
 
-- `input`: Value to be masked.
-- `pattern`: Mask pattern using `#` for digits.
+```ts
+Masker.apply('1234567890', '(##) ####-####'); // (12) 3456-7890
+```
 
-### `Masker.create(pattern: string): (input: string) => string`
+### Create a curried masker function
 
-- `pattern`: Mask pattern using `#` for digits.
-- Returns a function that applies the mask to the input value.
+```ts
+const fmtPhoneNumber = Masker.create('(##) ####-####');
+fmtPhoneNumber('1234567890'); // (12) 3456-7890
+```
 
-### `Masker.onlyNumbers(input: string): string`
+### Remove all non-numeric characters from a string
 
-- `input`: Value to be sanitized.
-- Returns a string containing only the numeric characters from the input.
+```ts
+Masker.onlyNumbers('(12) 3456-7890'); // 1234567890
+```
 
 ---
 
