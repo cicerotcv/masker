@@ -14,6 +14,7 @@ Perfect for input validation, formatting, and data presentation in web applicati
 [![license](https://img.shields.io/npm/l/@cicerotcv/masker?color=green)](./LICENSE)
 [![CI](https://github.com/cicerotcv/masker/actions/workflows/ci.yml/badge.svg)](https://github.com/cicerotcv/masker/actions/workflows/ci.yml)
 [![update and publish](https://github.com/cicerotcv/masker/actions/workflows/update-and-publish.yml/badge.svg)](https://github.com/cicerotcv/masker/actions/workflows/update-and-publish.yml)
+[![wakatime](https://wakatime.com/badge/user/6b9e0525-e35c-4896-bb9c-db75b3501e3c/project/11091876-8e6f-40ae-935e-cd3cacdcfd3c.svg)](https://wakatime.com/badge/user/6b9e0525-e35c-4896-bb9c-db75b3501e3c/project/11091876-8e6f-40ae-935e-cd3cacdcfd3c)
 
 ---
 
@@ -92,5 +93,6 @@ pnpm test:run
 ## 📄 License
 
 MIT © Cicero Valentim
+
 
 
