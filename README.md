@@ -15,7 +15,7 @@ Perfect for input validation, formatting, and data presentation in web applicati
 [![CI](https://github.com/cicerotcv/masker/actions/workflows/ci.yml/badge.svg)](https://github.com/cicerotcv/masker/actions/workflows/ci.yml)
 [![update and publish](https://github.com/cicerotcv/masker/actions/workflows/update-and-publish.yml/badge.svg)](https://github.com/cicerotcv/masker/actions/workflows/update-and-publish.yml)
 [![wakatime](https://wakatime.com/badge/user/6b9e0525-e35c-4896-bb9c-db75b3501e3c/project/11091876-8e6f-40ae-935e-cd3cacdcfd3c.svg)](https://wakatime.com/badge/user/6b9e0525-e35c-4896-bb9c-db75b3501e3c/project/11091876-8e6f-40ae-935e-cd3cacdcfd3c)
-
+[![buy-me-a-bitcoffee](https://img.shields.io/badge/Buy%20Me%20a%20BitCoffee-f7931a?logo=bitcoin&logoColor=white&color=f7931a&style=flat&label=Donate)](https://buymeabitcoffee.vercel.app/btc/bc1qw4q8nn7pknen33han7znsv6zhrrfta53sr86fw?identifier=Masker)
 ---
 
 ## ✨ Features
