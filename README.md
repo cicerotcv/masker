@@ -92,7 +92,7 @@ pnpm test:run
 
 ## 📄 License
 
-MIT © Cicero Valentim
+This project is open source and available under the [MIT License](LICENSE).
 
 
 
